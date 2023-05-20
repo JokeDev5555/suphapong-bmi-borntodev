@@ -1,4 +1,4 @@
-# Web Page (School)
+# Web Appication (Suphapong Meesang)
 suphapong-bmi-borntodev เป็น Web Appication คำนวณดชณีมวณกาย
 
 ## ดาวน์โหลด
